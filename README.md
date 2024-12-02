@@ -4,7 +4,7 @@ Je suis développeur web passionné avec une expertise dans plusieurs technologi
 
 ---
 
-## 🖥️ **Langages de programmation & Frontend**
+## 🖥️ **Frontend**
 - **JavaScript (JS)** & **TypeScript (TS)**  
 - **HTML5** & **CSS3**  
 - **React.js**  
