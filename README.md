@@ -1,34 +1,58 @@
-# Hi :wave: I'm Jérôme !
+# 🧑‍💻 **Bienvenue sur mon profil GitHub !**
 
-Junior passionnate Web developper since 2 years. 
+Je suis développeur web passionné avec une expertise dans plusieurs technologies depuis 4 ans . Voici un aperçu des outils, frameworks et langages que j'utilise régulièrement dans mes projets :
 
+---
 
+## 🖥️ **Langages de programmation & Frontend**
+- **JavaScript (JS)** & **TypeScript (TS)**  
+- **HTML5** & **CSS3**  
+- **React.js**  
+- **jQuery**
 
-:nerd_face: I'm starting a new training with the school O'clock and company CIGEST.
+---
 
-Last projet : Direct'Collect : https://directcollect.groupeschroll.fr/ I did it for the company "Schroll" in Strasbourg, it's a closed web app for their customers.
+## 🔧 **Backend**
+- **PHP** : natif ou **Symfony**, avec ou sans **API Platform**  
+- Gestion des bases de données avec l'ORM **Doctrine**, si utilisation de symfony
+- Documentation des APIs : **Swagger UI**
 
-I did it alone as part of my last work-study program.
+---
 
-Tech front : HTML5, CSS3, JS, Jquery, Flatpickr, FontAwesome, SweetAlert2
+## 🗄️ **Bases de données**
+- **MySQL**
+- **MariaDB** 
+- **Microsoft SQL Server** (via **SQL Management Studio**)  
 
-Tech back : PHP, PHP cURL, REST, PHPMailer
+---
 
-Host : Linux Debian, Docker, Apache
+## 🐳 **DevOps & Serveurs**
+- **Docker** 
+- **Serveurs web** : 
+  - **Nginx**  
+  - **Apache**  
+  - **IIS**
+- **Systèmes d'exploitation** :
+  - **Linux** (Debian, Ubuntu)  
+  - **Windows**
 
+---
 
-# :computer: Technologies : 
+## 🛠️ **Outils & Collaboration**
+- **Git** pour le contrôle de version  
+- **GitHub** & **Bitbucket** pour la gestion de projet
 
-## Front :
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+## ✨ **Autres compétences**
+- Expérience avec **Material UI** pour la conception d'interfaces modernes  
+- Gestion des authentifications sécurisées avec **JWT**  
+- Passion pour les environnements et workflows bien organisés
 
-## Back :
+---
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+🌐 N'hésitez pas à me contacter pour discuter de projets ou d'opportunités !
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+---
 
-## Working environment :
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 	![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+Merci pour votre visite ! 
