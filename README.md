@@ -1,6 +1,6 @@
-# 🧑‍💻 **Bienvenue sur mon profil GitHub !**
+# 🧑‍💻 **Welcome**
 
-Je suis développeur web passionné avec une expertise dans plusieurs technologies depuis 4 ans . Voici un aperçu des outils, frameworks et langages que j'utilise régulièrement dans mes projets :
+I am a passionate web developer with 4 years of experience and expertise in various technologies. Here is an overview of the tools, frameworks, and languages I regularly use in my projects:
 
 ---
 
@@ -13,46 +13,46 @@ Je suis développeur web passionné avec une expertise dans plusieurs technologi
 ---
 
 ## 🔧 **Backend**
-- **PHP** : natif ou **Symfony**, avec ou sans **API Platform**  
-- Gestion des bases de données avec l'ORM **Doctrine**, si utilisation de symfony
-- Documentation des APIs : **Swagger UI**
+- **PHP**: Native or with **Symfony**, with or without **API Platform**  
+- Database management using **Doctrine ORM** (when working with Symfony)  
+- API documentation with **Swagger UI**
 
 ---
 
-## 🗄️ **Bases de données**
-- **MySQL**
-- **MariaDB** 
+## 🗄️ **Databases**
+- **MySQL**  
+- **MariaDB**  
 - **Microsoft SQL Server** (via **SQL Management Studio**)  
 
 ---
 
-## 🐳 **DevOps & Serveurs**
-- **Docker** 
-- **Serveurs web** : 
+## 🐳 **DevOps & Servers**
+- **Docker**  
+- **Web Servers**: 
   - **Nginx**  
   - **Apache**  
   - **IIS**
-- **Systèmes d'exploitation** :
+- **Operating Systems**:
   - **Linux** (Debian, Ubuntu)  
   - **Windows**
 
 ---
 
-## 🛠️ **Outils & Collaboration**
-- **Git** pour le contrôle de version  
-- **GitHub** & **Bitbucket** pour la gestion de projet
+## 🛠️ **Tools & Collaboration**
+- **Git** for version control  
+- **GitHub** & **Bitbucket** for project management  
 
 ---
 
-## ✨ **Autres compétences**
-- Expérience avec **Material UI** pour la conception d'interfaces modernes  
-- Gestion des authentifications sécurisées avec **JWT**  
-- Passion pour les environnements et workflows bien organisés
+## ✨ **Additional Skills**
+- Experience with **Material UI** for modern interface design  
+- Managing secure authentication using **JWT**  
+- Passion for well-organized environments and workflows  
 
 ---
 
-🌐 N'hésitez pas à me contacter pour discuter de projets ou d'opportunités !
+🌐 Feel free to contact me to discuss projects or opportunities!
 
 ---
 
-Merci pour votre visite ! 
+Thank you for visiting! 
